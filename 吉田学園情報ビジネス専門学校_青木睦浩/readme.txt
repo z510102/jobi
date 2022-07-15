@@ -24,25 +24,13 @@
 　　｜　｜―ゲーム説明.docx（作品説明）
 　　｜
 　　｜―Escape Transporter　（3Dプラットフォーム）
-　　｜　｜
-　　｜　｜―プロジェクトファイル（VisualStudio2015のプロジェクト）
-　　｜　｜
-　　｜　｜―実行ファイル（exeとデータファイルのみ）
-　　｜　｜
-　　｜　｜―Escape Transporter.mp4（アピール動画）
-　　｜　｜
-　　｜　｜―Escape Transporter.pdf（アピールシート）
-　　｜　｜
-　　｜　｜―ゲーム説明.docx（作品説明）
-　　｜
-　　｜―限定ハンドサイン
 　　　　｜
 　　　　｜―プロジェクトファイル（VisualStudio2015のプロジェクト）
 　　　　｜
 　　　　｜―実行ファイル（exeとデータファイルのみ）
 　　　　｜
-　　　　｜―限定ハンドサイン.mp4（アピール動画）
+　　　　｜―Escape Transporter.mp4（アピール動画）
 　　　　｜
-　　　　｜―限定ハンドサイン.pdf（アピールシート）
+　　　　｜―Escape Transporter.pdf（アピールシート）
 　　　　｜
 　　　　｜―ゲーム説明.docx（作品説明）
